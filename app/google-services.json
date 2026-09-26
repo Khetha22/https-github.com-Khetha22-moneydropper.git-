@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "881640698304",
+    "firebase_url": "https://business-app-a674b.firebaseio.com",
+    "project_id": "business-app-a674b",
+    "storage_bucket": "business-app-a674b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881640698304:android:ff79916293ea871e1e9825",
+        "android_client_info": {
+          "package_name": "com.hbtech.trolleytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881640698304-7haht5k3kefpm8mn9olro96b9jhnp1lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hbtech.trolleytracker",
+            "certificate_hash": "368fde90e29c7eed2e28eb85c45a38194e0ca9ee"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzOmW1zcwVGQTCPcCzzMPVeUoJIwF-d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881640698304:android:6cfe9928af64e6481e9825",
+        "android_client_info": {
+          "package_name": "com.moneydropper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzOmW1zcwVGQTCPcCzzMPVeUoJIwF-d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881640698304:android:8b663526da0a24a41e9825",
+        "android_client_info": {
+          "package_name": "com.shiftmaster.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzOmW1zcwVGQTCPcCzzMPVeUoJIwF-d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881640698304:android:7f3194aef83f9a9f1e9825",
+        "android_client_info": {
+          "package_name": "com.swiftbite.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzOmW1zcwVGQTCPcCzzMPVeUoJIwF-d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881640698304:android:a199bbaeb7caefd31e9825",
+        "android_client_info": {
+          "package_name": "com.swiftbite.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzOmW1zcwVGQTCPcCzzMPVeUoJIwF-d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881640698304:android:ce855baabc18dfea1e9825",
+        "android_client_info": {
+          "package_name": "com.swiftbite.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzOmW1zcwVGQTCPcCzzMPVeUoJIwF-d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
